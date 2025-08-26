@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi I'm Kimi 👋
 
-<!--
-**kimikohking/kimikohking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Google Certified Data Analyst** passionate about turning data into actionable insights.  
+Skilled in SQL, Tableau, Google Sheets, and R, I enjoy solving business challenges through data-driven decision-making.  
 
-Here are some ideas to get you started:
+🌍 Based in the U.S., bilingual in **Japanese and English**  
+📊 Interested in business analytics, customer insights, and cross-cultural communication  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Portfolio Projects
+- [Cyclistic Bike-Share Analysis](https://github.com/your-username/cyclistic-data-analysis)  
+- (More projects coming soon...)
+
+## 📫 Get in Touch
+- Message me on [LinkedIn](https://www.linkedin.com/in/kimiko-hashimoto-king/)
