@@ -32,7 +32,7 @@ Skilled in SQL, Tableau, Google Sheets, and R, I enjoy solving business challeng
 - **Data Cleaning** → handling missing values, duplicates, inconsistent data  
 - **Data Transformation** → pivot tables, aggregation, joins  
 - **Data Visualization** → Tableau dashboards, Excel charts, Google Slides storytelling  
-- **Reporting** → translating insights into clear presentations (PowerPoint, Canva) 
+- **Reporting** → translating insights into clear presentations
 
 ### 🌱 Learning / Past Experience
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
