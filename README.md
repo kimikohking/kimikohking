@@ -28,6 +28,12 @@ Skilled in SQL, Tableau, Google Sheets, and R, I enjoy solving business challeng
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
 
+### ✨ What I do
+- **Data Cleaning** → handling missing values, duplicates, inconsistent data  
+- **Data Transformation** → pivot tables, aggregation, joins  
+- **Data Visualization** → Tableau dashboards, Excel charts, Google Slides storytelling  
+- **Reporting** → translating insights into clear presentations (PowerPoint, Canva) 
+
 ### 🌱 Learning / Past Experience
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
