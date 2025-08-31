@@ -35,9 +35,14 @@ Skilled in SQL, Tableau, Google Sheets, and R, I enjoy solving business challeng
 - **Reporting** → translating insights into clear presentations
 
 ### 🌱 Learning / Past Experience
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+- SNS Data Strategy & Analysis
+- HTML5 / CSS3 / JavaScript
+- Web Development
+- Project Management
+- Business analysis
+- Sales & Strategy
+- Bilingual Communication
+
 
 
 
