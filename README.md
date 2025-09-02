@@ -36,11 +36,11 @@ Skilled in SQL, Tableau, Google Sheets, and R, I enjoy solving business challeng
 
 ### 🌱 Learning / Past Experience
 - SNS Data Strategy & Analysis
+- Business analysis
+- Project Management
+- Sales & Strategy
 - HTML5 / CSS3 / JavaScript
 - Web Development
-- Project Management
-- Business analysis
-- Sales & Strategy
 - Bilingual Communication
 
 
