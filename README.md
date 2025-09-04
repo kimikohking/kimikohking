@@ -7,7 +7,7 @@ Skilled in SQL, Tableau, Google Sheets, and R, I enjoy solving business challeng
 📊 Interested in business analytics, customer insights, and cross-cultural communication  
 
 ### 🔗 Portfolio Projects
-- [Cyclistic Bike-Share Analysis](https://github.com/your-username/cyclistic-data-analysis)  
+- [Cyclistic Bike-Share Analysis](https://github.com/kimikohking/cyclistic-data-analysis)  
 - (More projects coming soon...)
 
 ### 🔗 Tableau Projects
