@@ -10,6 +10,9 @@ Skilled in SQL, Tableau, Google Sheets, and R, I enjoy solving business challeng
 - [Cyclistic Bike-Share Analysis](https://github.com/your-username/cyclistic-data-analysis)  
 - (More projects coming soon...)
 
+### Tableau Projects
+- [Cyclistic Bike-Share Analysis on Tableau Public](https://public.tableau.com/app/profile/kimiko.king/vizzes)
+
 ### 📫 Get in Touch
 - Message me on [LinkedIn](https://www.linkedin.com/in/kimiko-hashimoto-king/)
 
